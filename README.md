@@ -1,16 +1,11 @@
-## Hi there 👋
+B.Sc. Computer Science,
+Software Engineer,
+AI / Machine Learning Enthusiast,
+Research interests:
+Machine Learning
+AI Agents
+Neuro-inspired AI
+Human-AI Interaction
 
-<!--
-**chinedudev9/chinedudev9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/chinedu-n-6499b32b2/))
+Email: chinedundukwe499@gmail.com
